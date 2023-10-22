@@ -1,4 +1,5 @@
 To follow along, download/clone the code and open it in your code editor. Assuming you have npm installed, open a terminal in your code editor and type the following commands:
+
 [npm i]
 
 AND THEN …
