@@ -3,7 +3,9 @@ To follow along, download/clone the code and open it in your code editor. Assumi
 [npm i]
 
 First installed Tailwind.css;
+
 use this comment...
+
 npm install -D tailwindcss
 
 AND THEN …
